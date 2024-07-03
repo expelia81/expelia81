@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=expelia81)](https://solved.ac/expelia81)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=expelia81&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle=expelia81&theme=cold"/>
+
